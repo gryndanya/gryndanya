@@ -7,7 +7,7 @@ __Tech Stack__ : <br/>
   - __Databases__        - MySQL                                                 
   - __Frameworks__ 
     <ul>      
-    <li> Spring Framework : Boot, Core, Date, Security, Data </li>
+    <li> Spring Framework : Boot, Core, Security, Data </li>
     <li> Testing : JUnit </li>                                                     
     <li> Logging : Log4J </li>
     </ul>
