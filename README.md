@@ -2,6 +2,8 @@
 - 👀 I’m interested in working Java as a developer
 - 🌱 I’m currently learning __Java__
 
+me : gryndanya.github.io
+
 __Tech Stack__ : <br/>
   - __Languages__        - Java                                                  
   - __Databases__        - MySQL                                                 
