@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gryn Danya
 - 👀 I’m interested in working Java as a developer
-- 🌱 I’m currently learning __Java__
+- 🌱 I’m currently working with __Java__
 
 me : [gryndanya.github.io](https://gryndanya.github.io/)
 
