@@ -2,7 +2,7 @@
 - 👀 I’m interested in working Java as a developer
 - 🌱 I’m currently working with __Java__
 
-me : [gryndanya.github.io](https://gryndanya.github.io/)
+ALL about me : [gryndanya.github.io](https://gryndanya.github.io/)
 
 __Tech Stack__ : <br/>
   - __Languages__        - Java                                                  
