@@ -6,11 +6,11 @@ ALL about me : [gryndanya.github.io](https://gryndanya.github.io/)
 
 __Tech Stack__ : <br/>
   - __Languages__        - Java                                                  
-  - __Databases__        - MySQL                                                 
+  - __Databases__        - MySQL, SQLite, PostgreSQL                                                 
   - __Frameworks__ 
     <ul>      
-    <li> Spring Framework : Boot, Core, Security, Data </li>
-    <li> Testing : JUnit </li>                                                     
+    <li> Spring Framework : Boot, Core, Security, Data, MVC,REST </li>
+    <li> Testing : JUnit, Mockito </li>                                                     
     <li> Logging : Log4J </li>
     </ul>
   - __Template engine__  - Thymeleaf
